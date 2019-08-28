@@ -157,7 +157,7 @@
     <value>绿色：</value>
   </data>
   <data name="rbHue.Text" xml:space="preserve">
-    <value>色调：</value>
+    <value>色相：</value>
   </data>
   <data name="rbRed.Text" xml:space="preserve">
     <value>红色：</value>
@@ -212,5 +212,11 @@
   </data>
   <data name="lblAlpha.Text" xml:space="preserve">
     <value>Alpha：</value>
+  </data>
+  <data name="rbRecentColors.Text" xml:space="preserve">
+    <value>最近颜色</value>
+  </data>
+  <data name="rbStandardColors.Text" xml:space="preserve">
+    <value>标准色</value>
   </data>
 </root>

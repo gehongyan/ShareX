@@ -124,7 +124,7 @@
     <value>开源贡献</value>
   </data>
   <data name="TaskHelpers_TweetMessage_Unable_to_find_valid_Twitter_account_" xml:space="preserve">
-    <value>无法找到可用的 Twitter 账号。</value>
+    <value>无法找到可用的推特账号。</value>
   </data>
   <data name="UploadTask_ThreadDoWork_URL_is_empty_" xml:space="preserve">
     <value>URL是空的。</value>
@@ -200,7 +200,7 @@
   </data>
   <data name="ApplicationSettingsForm_cbLanguage_SelectedIndexChanged_Language_Restart" xml:space="preserve">
     <value>语言更改需要重新启动 ShareX。
-你要重新启动 ShareX ？</value>
+要重新启动 ShareX ？</value>
   </data>
   <data name="FileExistForm_txtNewName_TextChanged_Use_new_name__" xml:space="preserve">
     <value>使用新的名字：</value>
@@ -258,7 +258,7 @@
     <value>停止</value>
   </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_URL_sharing_service___0_" xml:space="preserve">
-    <value>URL 共享: {0}</value>
+    <value>URL 共享：{0}</value>
   </data>
   <data name="ChromeForm_btnUnregister_Click_Chrome_support_disabled_" xml:space="preserve">
     <value>Chrome浏览器扩展支持已禁用。</value>
@@ -361,7 +361,7 @@
     <value>项目页面</value>
   </data>
   <data name="TaskHelpers_TweetMessage_Tweet_successfully_sent_" xml:space="preserve">
-    <value>Tweet 发送成功。</value>
+    <value>推文发送成功。</value>
   </data>
   <data name="Program_WritePersonalPathConfig_Cant_access_to_file" xml:space="preserve">
     <value>无法访问 "{0}" 文件.
@@ -436,7 +436,7 @@
     <value>{0} 配置无效或丢失。请转到“上传至...”窗口中进行设置。</value>
   </data>
   <data name="MainForm_UpdateMainWindowLayout_Hide_columns" xml:space="preserve">
-    <value>隐藏列</value>
+    <value>隐藏表头</value>
   </data>
   <data name="QuickTaskMenu_ShowMenu_Continue" xml:space="preserve">
     <value>继续</value>
@@ -504,7 +504,7 @@
     <value>繁体中文</value>
   </data>
   <data name="ApplicationSettingsForm_cbStartWithWindows_Text" xml:space="preserve">
-    <value>Windows 启动时运行 ShareX</value>
+    <value>在 Windows 启动时运行 ShareX</value>
   </data>
   <data name="QRCodeForm_InputTextToEncode" xml:space="preserve">
     <value>输入文本生成二维码</value>
@@ -576,5 +576,17 @@
   </data>
   <data name="ShareXOpticalCharacterRecognition" xml:space="preserve">
     <value>ShareX - 光学字符识别</value>
+  </data>
+  <data name="HideThumbnailTitle" xml:space="preserve">
+    <value>隐藏缩略图标题</value>
+  </data>
+  <data name="SwitchToListView" xml:space="preserve">
+    <value>切换至列表视图</value>
+  </data>
+  <data name="ShowThumbnailTitle" xml:space="preserve">
+    <value>显示缩略图标题</value>
+  </data>
+  <data name="SwitchToThumbnailView" xml:space="preserve">
+    <value>切换时缩略图视图</value>
   </data>
 </root>

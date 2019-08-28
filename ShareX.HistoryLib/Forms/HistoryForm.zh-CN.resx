@@ -121,7 +121,7 @@
     <value>ShareX - 历史记录</value>
   </data>
   <data name="btnApplyFilters.Text" xml:space="preserve">
-    <value>开始筛选</value>
+    <value>应用筛选</value>
   </data>
   <data name="btnRemoveFilters.Text" xml:space="preserve">
     <value>清除筛选</value>

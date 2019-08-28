@@ -490,7 +490,7 @@
     <value>工具</value>
   </data>
   <data name="tsmiTrayTweetMessage.Text" xml:space="preserve">
-    <value>Tweet消息...</value>
+    <value>推特消息...</value>
   </data>
   <data name="tsmiTrayUpload.Text" xml:space="preserve">
     <value>上传</value>
@@ -511,7 +511,7 @@
     <value>从 URL 上传...</value>
   </data>
   <data name="tsmiTrayURLSharingServices.Text" xml:space="preserve">
-    <value>URL共享</value>
+    <value>URL 共享服务</value>
   </data>
   <data name="tsmiTrayURLShorteners.Text" xml:space="preserve">
     <value>URL 短链</value>
@@ -619,7 +619,7 @@
     <value>文本识别（OCR）</value>
   </data>
   <data name="tsmiHideColumns.Text" xml:space="preserve">
-    <value>隐藏列</value>
+    <value>隐藏表头</value>
   </data>
   <data name="niTray.Text" xml:space="preserve">
     <value>ShareX</value>
@@ -754,7 +754,7 @@
     <value>5 秒</value>
   </data>
   <data name="tsmiCustomUploaderSettings.Text" xml:space="preserve">
-    <value>自定义上传目标...</value>
+    <value>自定义上传设置...</value>
   </data>
   <data name="tsmiCopyImageDimensions.Text" xml:space="preserve">
     <value>图像尺寸</value>
@@ -764,5 +764,44 @@
   </data>
   <data name="tsmiSwitchTaskViewMode.Text" xml:space="preserve">
     <value>切换至缩略图视图</value>
+  </data>
+  <data name="pbBitcoinButton.ToolTip" xml:space="preserve">
+    <value>使用加密货币支持我们</value>
+  </data>
+  <data name="tsmiTrayScreenshotDelay5.Text" xml:space="preserve">
+    <value>5 秒</value>
+  </data>
+  <data name="tsmiTrayScreenshotDelay4.Text" xml:space="preserve">
+    <value>4 秒</value>
+  </data>
+  <data name="tsmiTrayScreenshotDelay3.Text" xml:space="preserve">
+    <value>3 秒</value>
+  </data>
+  <data name="tsmiTrayScreenshotDelay2.Text" xml:space="preserve">
+    <value>2 秒</value>
+  </data>
+  <data name="tsmiTrayScreenshotDelay1.Text" xml:space="preserve">
+    <value>1 秒</value>
+  </data>
+  <data name="tsmiTrayScreenshotDelay.Text" xml:space="preserve">
+    <value>截图倒计时</value>
+  </data>
+  <data name="tsmiTrayScreenshotDelay0.Text" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="tsmiTrayCustomUploaderSettings.Text" xml:space="preserve">
+    <value>自定义上传设置...</value>
+  </data>
+  <data name="pbSocialHideButton.ToolTip" xml:space="preserve">
+    <value>隐藏社交按钮</value>
+  </data>
+  <data name="pbDiscordButton.ToolTip" xml:space="preserve">
+    <value>加入我们的 Discord 频道</value>
+  </data>
+  <data name="pbTwitterButton.ToolTip" xml:space="preserve">
+    <value>在推特上关注我们</value>
+  </data>
+  <data name="pbPatreonButton.ToolTip" xml:space="preserve">
+    <value>在 Patreon 上支持我们</value>
   </data>
 </root>

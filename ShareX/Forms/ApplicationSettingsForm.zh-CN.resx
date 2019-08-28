@@ -151,7 +151,7 @@
     <value>不显示 Windows 打印对话框</value>
   </data>
   <data name="gbSecondaryFileUploaders.Text" xml:space="preserve">
-    <value>辅助文件上传程序</value>
+    <value>备选文件上传程序</value>
   </data>
   <data name="cbShowTray.Text" xml:space="preserve">
     <value>显示托盘图标</value>
@@ -181,13 +181,13 @@
     <value>描述</value>
   </data>
   <data name="chkUseSecondaryUploaders.Text" xml:space="preserve">
-    <value>重试时使用辅助上传程序优先级顺序</value>
+    <value>重试时使用备选上传程序优先级顺序</value>
   </data>
   <data name="tpUploadResults.Text" xml:space="preserve">
     <value>结果</value>
   </data>
   <data name="gbSecondaryImageUploaders.Text" xml:space="preserve">
-    <value>辅助图像上传程序</value>
+    <value>备选图像上传程序</value>
   </data>
   <data name="lblUploadLimit.Text" xml:space="preserve">
     <value>同时上传限制：</value>
@@ -211,7 +211,7 @@
     <value>端口：</value>
   </data>
   <data name="cbUseCustomScreenshotsPath.Text" xml:space="preserve">
-    <value>使用自定义截图文件夹:</value>
+    <value>使用自定义截图文件夹：</value>
   </data>
   <data name="btnOpenPersonalFolderPath.Text" xml:space="preserve">
     <value>打开...</value>
@@ -250,10 +250,10 @@
     <value>格式</value>
   </data>
   <data name="gbSecondaryTextUploaders.Text" xml:space="preserve">
-    <value>辅助文本上传程序</value>
+    <value>备选文本上传程序</value>
   </data>
   <data name="cbSteamShowInApp.Text" xml:space="preserve">
-    <value>当 ShareX 开启时，在 Steam 状态显示 ShareX</value>
+    <value>当 ShareX 运行时，在 Steam 状态显示 ShareX</value>
   </data>
   <data name="cbShellContextMenu.Text" xml:space="preserve">
     <value>在 Windows 资源管理器右键菜单显示 "使用 ShareX 上传" 按钮</value>
@@ -280,13 +280,13 @@
     <value>编辑快速任务菜单...</value>
   </data>
   <data name="btnExport.Text" xml:space="preserve">
-    <value>导出...</value>
+    <value>导出设置...</value>
   </data>
   <data name="btnImport.Text" xml:space="preserve">
-    <value>导入...</value>
+    <value>导入设置...</value>
   </data>
   <data name="tpExportImport.Text" xml:space="preserve">
-    <value>导出 / 导入</value>
+    <value>导入/ 导出</value>
   </data>
   <data name="cbHistorySaveTasks.Text" xml:space="preserve">
     <value>保存任务历史</value>
@@ -331,7 +331,7 @@
     <value>启用 Firefox 扩展程序支持</value>
   </data>
   <data name="btnFirefoxOpenAddonPage.Text" xml:space="preserve">
-    <value>安装 Sharex Firefox 扩展程序支持</value>
+    <value>安装 ShareX Firefox 扩展程序支持</value>
   </data>
   <data name="btnResetSettings.Text" xml:space="preserve">
     <value>重置设置...</value>

@@ -179,7 +179,7 @@
     <value>范围为 0-9，较低的值表示更高的质量。0-3 通常会产生透明效果，4（默认）接近感知透明度，6 为“可勉强接受的”质量。</value>
   </data>
   <data name="tbVorbis_qscale.ToolTip" xml:space="preserve">
-    <value>范围为 0-10，其中 10 为最高质量，3-6 为推荐测试范围，默认值为 3.</value>
+    <value>范围为 0-10，其中 10 为最高质量，3-6 为推荐测试范围，默认值为 3。</value>
   </data>
   <data name="lblx264Preset.Text" xml:space="preserve">
     <value>预设：</value>

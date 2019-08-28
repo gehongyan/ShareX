@@ -193,7 +193,7 @@
     <value>否</value>
   </data>
   <data name="HSB_ToString_" xml:space="preserve">
-    <value>色调: {0:0.0}度，饱和度: {1:0.0}%，亮度: {2:0.0}%</value>
+    <value>色相: {0:0.0}度，饱和度: {1:0.0}%，亮度: {2:0.0}%</value>
   </data>
   <data name="CMYK_ToString_Cyan___0_0_0____Magenta___1_0_0____Yellow___2_0_0____Key___3_0_0__" xml:space="preserve">
     <value>青色: {0:0.0}%，品红: {1:0.0}%，黄色: {2:0.0}%, 键: {3:0.0}%</value>
@@ -351,7 +351,7 @@
     <value>停止所有活动上传</value>
   </data>
   <data name="HotkeyType_TweetMessage" xml:space="preserve">
-    <value>Tweet 消息</value>
+    <value>推特消息</value>
   </data>
   <data name="HotkeyType_UploadURL" xml:space="preserve">
     <value>从 URL 上传</value>
@@ -1161,5 +1161,8 @@
   </data>
   <data name="ShapeType_DrawingMagnify" xml:space="preserve">
     <value>放大</value>
+  </data>
+  <data name="PastebinExpiration_M10" xml:space="preserve">
+    <value>10 分钟</value>
   </data>
 </root>

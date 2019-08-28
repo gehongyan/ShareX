@@ -136,7 +136,7 @@
     <value>复制响应</value>
   </data>
   <data name="mbDestinationType.ToolTip" xml:space="preserve">
-    <value>目前，当用户双击 .sxcu 文件导入自定义上传目标时，上传目标类型将被使用。</value>
+    <value>目前，当用户双击 .sxcu 文件导入自定义上传目标时，上传目标类型将被应用。</value>
   </data>
   <data name="tsmiCustomUploaderGuide.Text" xml:space="preserve">
     <value>自定义上传向导（英语）...</value>

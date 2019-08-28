@@ -213,7 +213,7 @@
     <value>用户密钥：</value>
   </data>
   <data name="cbUpasteIsPublic.Text" xml:space="preserve">
-    <value>是否公开上传?</value>
+    <value>公开上传</value>
   </data>
   <data name="lblPaste_eeUserAPIKey.Text" xml:space="preserve">
     <value>用户密钥：</value>
@@ -541,7 +541,7 @@
     <value>名称</value>
   </data>
   <data name="lblPicasaAlbumID.Text" xml:space="preserve">
-    <value>上传相册 ID（空 = 无相册上传）:</value>
+    <value>上传相册 ID（空 = 无相册上传）：</value>
   </data>
   <data name="lblPhotobucketAccountStatus.Text" xml:space="preserve">
     <value>需要登录。</value>
@@ -601,7 +601,7 @@
     <value>打开我的图片页面...</value>
   </data>
   <data name="cbImageShackIsPublic.Text" xml:space="preserve">
-    <value>是否公开上传?</value>
+    <value>公开上传</value>
   </data>
   <data name="btnImageShackOpenPublicProfile.Text" xml:space="preserve">
     <value>打开公共资料页面...</value>
@@ -856,7 +856,7 @@
     <value>创建公共 Gist</value>
   </data>
   <data name="cbPastieIsPublic.Text" xml:space="preserve">
-    <value>是否公开上传?</value>
+    <value>公开上传</value>
   </data>
   <data name="cbxPlikTTLUnit.Items3" xml:space="preserve">
     <value>永不</value>
@@ -871,7 +871,7 @@
     <value>注意：不支持 GitHub Enterprise。</value>
   </data>
   <data name="cbPolrIsSecret.Text" xml:space="preserve">
-    <value>是否私密 URL</value>
+    <value>私密 URL</value>
   </data>
   <data name="btnSharedFolderAdd.Text" xml:space="preserve">
     <value>添加</value>

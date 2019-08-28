@@ -124,7 +124,7 @@
     <value>关闭</value>
   </data>
   <data name="btnColorDialog.Text" xml:space="preserve">
-    <value>颜色对话框...</value>
+    <value>拾色器...</value>
   </data>
   <data name="btnGradientColor1.Text" xml:space="preserve">
     <value>颜色 1</value>
@@ -151,7 +151,7 @@
     <value>黑色，白色：</value>
   </data>
   <data name="rbGradient.Text" xml:space="preserve">
-    <value>梯度：</value>
+    <value>渐变：</value>
   </data>
   <data name="rbRedGreenBlue.Text" xml:space="preserve">
     <value>红,  绿,  蓝：</value>

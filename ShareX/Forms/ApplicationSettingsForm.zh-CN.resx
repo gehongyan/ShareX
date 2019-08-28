@@ -355,7 +355,7 @@
     <value>安装开发版...</value>
   </data>
   <data name="cbEditWithShareX.Text" xml:space="preserve">
-    <value>在Windows上下文菜单中显示“使用ShareX编辑”</value>
+    <value>在 Windows 上下文菜单中显示“使用 ShareX 编辑”</value>
   </data>
   <data name="cbExperimentalDarkTheme.Text" xml:space="preserve">
     <value>实验性黑暗主题</value>

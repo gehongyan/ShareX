@@ -478,7 +478,7 @@
     <value>屏幕录制（GIF）</value>
   </data>
   <data name="tsmiTrayShow.Text" xml:space="preserve">
-    <value>打开ShareX窗口</value>
+    <value>打开 ShareX 窗口</value>
   </data>
   <data name="tsmiTrayTaskSettings.Text" xml:space="preserve">
     <value>任务设置...</value>
@@ -508,13 +508,13 @@
     <value>上传文件夹...</value>
   </data>
   <data name="tsmiTrayUploadURL.Text" xml:space="preserve">
-    <value>从URL上传...</value>
+    <value>从 URL 上传...</value>
   </data>
   <data name="tsmiTrayURLSharingServices.Text" xml:space="preserve">
     <value>URL共享</value>
   </data>
   <data name="tsmiTrayURLShorteners.Text" xml:space="preserve">
-    <value>URL短链</value>
+    <value>URL 短链</value>
   </data>
   <data name="tsmiTrayWindow.Text" xml:space="preserve">
     <value>窗口</value>
@@ -598,10 +598,10 @@
     <value>测试文件上传</value>
   </data>
   <data name="tsmiTrayTestURLShortener.Text" xml:space="preserve">
-    <value>测试URL短链</value>
+    <value>测试 URL 短链</value>
   </data>
   <data name="tsmiTrayTestURLSharing.Text" xml:space="preserve">
-    <value>测试URL共享</value>
+    <value>测试 URL 共享</value>
   </data>
   <data name="tsmiTrayDebug.Text" xml:space="preserve">
     <value>调试</value>
@@ -706,7 +706,7 @@
     <value>Enter</value>
   </data>
   <data name="tsmiShortenURL.Text" xml:space="preserve">
-    <value>UR L短链</value>
+    <value>URL 短链</value>
   </data>
   <data name="tsmiShowCursor.Text" xml:space="preserve">
     <value>显示指针</value>
@@ -718,7 +718,7 @@
     <value>图像缩略图...</value>
   </data>
   <data name="tsmiTrayShortenURL.Text" xml:space="preserve">
-    <value>URL短链...</value>
+    <value>URL 短链...</value>
   </data>
   <data name="tsmiTrayShowCursor.Text" xml:space="preserve">
     <value>显示指针</value>

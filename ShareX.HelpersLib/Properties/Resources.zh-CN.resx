@@ -234,7 +234,7 @@
     <value>粘贴</value>
   </data>
   <data name="ExportImportControl_tsmiImportURL_Click_URL_to_download_settings_from" xml:space="preserve">
-    <value>设置下载的URL</value>
+    <value>设置下载的 URL</value>
   </data>
   <data name="DownloaderForm_StartDownload_Cancel" xml:space="preserve">
     <value>取消</value>
@@ -390,7 +390,7 @@
     <value>电子邮箱</value>
   </data>
   <data name="UrlShortenerType_CustomURLShortener" xml:space="preserve">
-    <value>自定义URL短链</value>
+    <value>自定义 URL 短链</value>
   </data>
   <data name="AfterCaptureTasks_AddImageEffects" xml:space="preserve">
     <value>添加图片特效/水印</value>

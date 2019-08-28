@@ -127,18 +127,18 @@
     <value>应用</value>
   </data>
   <data name="cbAutomatic.Text" xml:space="preserve">
-    <value>自动获得DNS服务器地址</value>
+    <value>自动获得 DNS 服务器地址</value>
   </data>
   <data name="lblAdapters.Text" xml:space="preserve">
     <value>网络适配器：</value>
   </data>
   <data name="lblAlternateDNS.Text" xml:space="preserve">
-    <value>备用DNS服务器：</value>
+    <value>备用 DNS 服务器：</value>
   </data>
   <data name="lblDNS.Text" xml:space="preserve">
-    <value>DNS服务器：</value>
+    <value>DNS 服务器：</value>
   </data>
   <data name="lblPreferredDNS.Text" xml:space="preserve">
-    <value>首选DNS服务器：</value>
+    <value>首选 DNS 服务器：</value>
   </data>
 </root>

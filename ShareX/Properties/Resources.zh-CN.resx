@@ -130,14 +130,14 @@
     <value>URL是空的。</value>
   </data>
   <data name="ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path" xml:space="preserve">
-    <value>选择ShareX个人文件夹路径</value>
+    <value>选择 ShareX 个人文件夹路径</value>
   </data>
   <data name="HotkeyManager_ShowFailedHotkeys_Unable_to_register_hotkey" xml:space="preserve">
     <value>无法注册快捷键 {0}：
 
 {1}
 
-请选择一个不同的快捷键，或退出冲突的应用程序，并重新启动ShareX。</value>
+请选择一个不同的快捷键，或退出冲突的应用程序，并重新启动 ShareX。</value>
   </data>
   <data name="MainForm_tsmiDeleteSelectedFile_Click_File_delete_confirmation" xml:space="preserve">
     <value>文件删除确认</value>
@@ -221,7 +221,7 @@
     <value>捕捉后：{0}</value>
   </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_URL_shortener___0_" xml:space="preserve">
-    <value>URL短链：{0}</value>
+    <value>URL 短链：{0}</value>
   </data>
   <data name="UploadInfoManager_ShowErrors_Upload_errors" xml:space="preserve">
     <value>上传错误</value>
@@ -519,13 +519,13 @@
     <value>意大利语</value>
   </data>
   <data name="UploadManager_ShowShortenURLDialog_ShortenURL" xml:space="preserve">
-    <value>生成 UR L短链</value>
+    <value>生成 URL 短链</value>
   </data>
   <data name="UploadManager_ShowShortenURLDialog_Shorten" xml:space="preserve">
     <value>生成</value>
   </data>
   <data name="IntegrationHelpers_EditWithShareX" xml:space="preserve">
-    <value>使用ShareX编辑</value>
+    <value>使用 ShareX 编辑</value>
   </data>
   <data name="ApplicationSettingsForm_btnCheckDevBuild_Click_DevBuilds_Warning" xml:space="preserve">
     <value>开发版并不稳定，仅用于测试目的，要安装吗？</value>

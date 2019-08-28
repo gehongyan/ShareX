@@ -127,7 +127,7 @@
     <value>复制</value>
   </data>
   <data name="HistoryItemManager_InitializeComponent_Deletion_URL" xml:space="preserve">
-    <value>删除URL</value>
+    <value>删除 URL</value>
   </data>
   <data name="HistoryItemManager_InitializeComponent_File" xml:space="preserve">
     <value>文件</value>

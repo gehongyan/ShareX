@@ -226,7 +226,7 @@
     <value>复制</value>
   </data>
   <data name="cbClipboardUploadShortenURL.Text" xml:space="preserve">
-    <value>如果剪贴板中包含一个URL链接, 则使用URL短链来缩短。</value>
+    <value>如果剪贴板中包含一个 URL 链接, 则使用 URL 短链来缩短。</value>
   </data>
   <data name="cbClipboardUploadAutoIndexFolder.Text" xml:space="preserve">
     <value>如果剪贴板中包含文件夹路径, 则自动索引文件夹并上传索引。</value>
@@ -268,7 +268,7 @@
     <value>固定时长:</value>
   </data>
   <data name="lblScreenRecordFPS.Text" xml:space="preserve">
-    <value>屏幕录制FPS:</value>
+    <value>屏幕录制 FPS：</value>
   </data>
   <data name="lblScreenRecorderFixedDuration.Text" xml:space="preserve">
     <value>秒</value>
@@ -367,13 +367,13 @@
     <value>截图后...</value>
   </data>
   <data name="chkOverrideFTP.Text" xml:space="preserve">
-    <value>覆盖默认的FTP帐户：</value>
+    <value>覆盖默认的 FTP 帐户：</value>
   </data>
   <data name="chkOverrideCustomUploader.Text" xml:space="preserve">
     <value>覆盖默认的自定义上传：</value>
   </data>
   <data name="cbImageAutoUseJPEG.Text" xml:space="preserve">
-    <value>如果图像大小比指定大小大，则使用JPEG格式</value>
+    <value>如果图像大小比指定大小大，则使用 JPEG 格式</value>
   </data>
   <data name="btnCaptureCustomRegionSelectRectangle.Text" xml:space="preserve">
     <value>选择区域...</value>
